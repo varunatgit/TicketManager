@@ -1,0 +1,4 @@
+$token  = "1895603627:AAF12TCae32KgvfippvGT1U9X8cf-Hwt-P0"
+$chat = "-531960093"
+
+https://api.telegram.org/bot1895603627:AAF12TCae32KgvfippvGT1U9X8cf-Hwt-P0/sendMessage?chat_id=-531960093&text=Hello+World
