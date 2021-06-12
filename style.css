@@ -7,8 +7,9 @@
 
 .description{
 
-    height: auto;
-    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 
@@ -239,3 +240,5 @@ margin: 2%;
     color:black;
     margin: 5px;
 }
+
+
